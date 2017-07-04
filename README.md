@@ -2,7 +2,7 @@
 An Evolutionary system with lots of features, some very eccentric.
 (using Genetic Algorithm, created in p5.js )
 
-Instructions : Download archive, unpack and open RUN.html. 
+Instructions : Download archive, unpack and open index.html. 
 
 
 Features :
