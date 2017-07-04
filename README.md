@@ -6,7 +6,7 @@ Instructions : Download archive, unpack and open index.html.
 
 
 Features :
-1.	Fishes continuously evolve through time, through survival of the fittest.
+1.	Individuals continuously evolve through time, through survival of the fittest.
 2.	They age with time. Their age affects their abilities to reproduce/ fight and probability of death.
 3.	They have different perception radii and affinities for food and poison.
 They try to find the closest food within their vision and flee from the sight of poison.
@@ -14,12 +14,14 @@ They try to find the closest food within their vision and flee from the sight of
 5.	Health is indicated by colour which is mapped between blue and red. If health goes below zero, they are eliminated from the population.
 6.	There is Black-Magic in their luck which makes them love poison and  creates an aversion for food. When they are under this influence, their colour is black.
 7.	If their age permits and they are in good health, they’ll clone themselves with some mutation (Asexual reproduction).
-8.	When there are a lot of fish at one place, they’ll fight each other, resulting in elimination of most individuals in a group but one.
+8.	When there are a lot of fish at one place, they’ll fight each other, resulting in elimination of the less healthy individual.
 9.	They might even decide to reproduce sexually, transferring their DNA to their child, along with mutations.
-10.	Their maximum speed and forces, their affinity or aversion multiplicity, their perceptions, and their luck (black magic) – is all carried in different genes in their DNA.
-11.	They carry their dynasty name (id) and their generation number. Upon death, all their information is printed.
-12.	Checkbox switches perception visualizer.
-13.	Graph Visualizer for population size, max health in population etc.
+10.	This marriage is limited to people within same generation and belonging to different families. (Incestuous and other relationships can be found in earlier versions).
+11.	Their maximum speed and forces, their affinity or aversion multiplicity, their perceptions, and their luck (black magic) – is all carried in different genes in their DNA.
+12.	They carry their dynasty name (id) and their generation number. Upon death, all their information is printed.
+13.	Checkbox switches perception visualizer.
+14.	Graph Visualizer for population size, max health in population etc.
+15.	They clone more if underpopulated and fight more if overpopulated. There might be same family ruling the world, in which case, sex will not take place.
 
 
 
