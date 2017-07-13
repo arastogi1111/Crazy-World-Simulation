@@ -24,7 +24,7 @@ They try to find the closest food within their vision and flee from the sight of
 15.	They clone more if underpopulated and fight more if overpopulated. There might be same family ruling the world, in which case, sex will not take place.
 
 
-
+![Screenshot](screens/1058.png)
 
 
 
@@ -86,6 +86,8 @@ boundaries():
   	Steers vehicles towards center if they reach boundaries.
 
 
+
+![Screenshot](screens/1060.png)
 Analysis that can be drawn from results:
 
     •	Fishes with high perception, high speed and high steering forces tend to survive through thick and thin.
