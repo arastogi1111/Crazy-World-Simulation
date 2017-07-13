@@ -2,10 +2,10 @@
 An Evolutionary system with lots of features, some very eccentric.
 (using Genetic Algorithm, created in p5.js )
 
-Instructions : Download archive, unpack and open index.html. 
+## Instructions : Download archive, unpack and open index.html. 
 
 
-Features :
+## Features :
 1.	Individuals continuously evolve through time, through survival of the fittest.
 2.	They age with time. Their age affects their abilities to reproduce/ fight and probability of death.
 3.	They have different perception radii and affinities for food and poison.
@@ -31,7 +31,7 @@ They try to find the closest food within their vision and flee from the sight of
 The Vehicle Object :
 
 
-DNA with 6 GENES:
+## DNA with 6 GENES:
 
     •	Food affinity multiplier
     •	Poison aversion multiplier
@@ -88,7 +88,9 @@ boundaries():
 
 
 ![Screenshot](screens/1060.png)
-Analysis that can be drawn from results:
+
+
+## Analysis that can be drawn from results:
 
     •	Fishes with high perception, high speed and high steering forces tend to survive through thick and thin.
     •	They shouldn’t be coward (high poison multiplier), or else they can’t approach food owing to presence of poison far away. These coward species will also have the highest affinity to poison when under black magic. 
